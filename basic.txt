@@ -1,0 +1,18 @@
+Luminous Flowers v1 Partlist
+
+Part Value  Device                Package             Description                
+C1   0.1u   C-EU025-024X044       C025-024X044        CAPACITOR, European symbol 
+CN1         USBMOLEX              USB-MINIB-THM-MOLEX USB Connectors             
+D1   3.6V   ZENER-DIODEZD-2.5     ZDIO-2.5            Z-Diode                    
+D2   3.6V   ZENER-DIODEZD-2.5     ZDIO-2.5            Z-Diode                    
+GNDA        M041X04_NO_SILK       1X04_NO_SILK        Header 4                   
+GNDB        M041X04_NO_SILK       1X04_NO_SILK        Header 4                   
+PWRA        M041X04_NO_SILK       1X04_NO_SILK        Header 4                   
+PWRB        M041X04_NO_SILK       1X04_NO_SILK        Header 4                   
+Q1   2n7000 MOSFET-NCHANNEL2N7000 TO-92               Common NMOSFET Parts       
+Q2   2n7000 MOSFET-NCHANNEL2N7000 TO-92               Common NMOSFET Parts       
+R1   4K7    R-US_0204/5           0204/5              RESISTOR, American symbol  
+R2   1K5    R-US_0204/5           0204/5              RESISTOR, American symbol  
+R3   68     R-US_0204/5           0204/5              RESISTOR, American symbol  
+R4   68     R-US_0204/5           0204/5              RESISTOR, American symbol  
+U1   TINY85 ATTINY85-20P          PDIP08_300MIL       ATMEL ATtiny 85            
